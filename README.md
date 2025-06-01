@@ -45,7 +45,8 @@ jupyter notebook
 ```
 Open any notebook file and run the cells interactively.
 
-About the Book
+## About the Book
+
 Python Data Science Handbook by Jake VanderPlas is a comprehensive guide to essential Python tools for data science, covering:
 
 IPython for interactive computing
