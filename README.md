@@ -33,11 +33,11 @@ pip install numpy pandas matplotlib scikit-learn seaborn jupyter
 Running the Notebooks
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/python-data-science-handbook-practice.git
+git clone https://github.com/M-F-Tushar/Python-Data-Science-Handbook.git
 ```
 Navigate to the notebooks directory:
 ```bash
-cd python-data-science-handbook-practice/notebooks
+cd Python-Data-Science-Handbook/notebooks
 ```
 Launch Jupyter Notebook or Jupyter Lab:
 ```bash
